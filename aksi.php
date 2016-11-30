@@ -55,7 +55,8 @@ else
 				$kedekatanJk=1;
 			else
 				$kedekatanJk=0;
-
+			
+//hahahhahahahh ini perubahannya
 
 		//hitung kedekatan usia
 			if($b_us==$data[usia])
